@@ -56,15 +56,15 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-space$$
   - LEFT WIN
+  - $$mdi:keyboard-space$$
   - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '-', s: _}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '=', s: +}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '-', s: _}
-  - {t: '=', s: +}
   layer1:
   - {t: '`', s: '~'}
   - F1
