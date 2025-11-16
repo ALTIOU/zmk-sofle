@@ -59,7 +59,7 @@ layers:
   - LEFT WIN
   - $$mdi:keyboard-space$$
   - layer1
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - '&mkp MB1'
   - {t: '-', s: _}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '=', s: +}
